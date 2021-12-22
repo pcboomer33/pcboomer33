@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I am a guy learning to program python.
-- I spent many hours trying to get my hackintosh to get wifi.
+- I spent many hours trying to get my hackintosh to have wifi.
 - A horrible blender modeller
 - I know how to clover hackintosh
 - I played doom on my ipod photo (4th gen) for fun
