@@ -1,13 +1,13 @@
 ### Hi there 👋
-- I am a guy learning to program python.
-- I am a guy also learning to program clojure
+- I am a guy learning to program Python.
+- I am a guy also learning to program Clojure
 - I spent many hours trying to get my hackintosh to have wifi.
 - A horrible blender modeller
 - I know how to clover hackintosh
 - I played doom on my ipod photo (4th gen) for fun
 - I am an intermediate linux user, but not an expert yet
 ### Things I want to accomplish.
-- To fully learn python and other programming languagues
+- To fully learn ~~Python~~ Clojure and other programming languagues 
 - actually get wifi on my hackintosh
 - fix the worn out ipod wheel since its kinda broken
 ### Hobbies
