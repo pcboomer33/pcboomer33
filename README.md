@@ -1,5 +1,6 @@
 ### Hi there 👋
 - I am a guy learning to program python.
+- I am a guy also learning to program clojure
 - I spent many hours trying to get my hackintosh to have wifi.
 - A horrible blender modeller
 - I know how to clover hackintosh
@@ -17,6 +18,8 @@
 - Only things i could think about.
 - Listening to Scarlet Fire
 
+### What I am working on
+- Learning Clojure
 
 
 
